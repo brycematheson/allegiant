@@ -1,0 +1,37 @@
++++
+title = 'Windows 10: First Impressions'
+date = "2015-07-31T18:50:20-07:00"
++++
+Windows 10 launched yesterday, and so being my naturally-curious self on all the latest and greatest in the tech world, I gave it a go. I got an ISO and started it up in VM Fusion on my Mac. This won't be an in-depth review on all the latest features and all that jazz. There are plenty of Tech Blogs out there that can perform a <a href="http://www.cnet.com/products/microsoft-windows-10/" target="_blank">better review</a> than I ever could. Besides, I'm lazy and don't feel all that interested in doing so, anyway.
+
+On first boot-up, the very first thing that I said to myself was, &#8220;Wow, this feels dark.&#8221; It doesn't really feel like a warm, inviting welcome like Windows 7 or Windows 8.1 felt. The default background is a dark, deep blue (which can be changed, obviously), and the taskbar is straight black, without any nifty aero effects or transparency. It just seems very cold to me, something that you might see on a Batman movie. It might be something small and subtle that only I care about, but I feel like having brighter colors make things less intimidating. It almost has a Unix feel. I know that everything these days is turning towards a more flat UI, but what happened to Aero glass? I personally miss that transparent touch on the taskbar and open windows.
+
+<img src="/img/post_images/windows-10-first-impressions-1.png" alt="Windows 10 First Impressions" />
+
+Also, I feel that the default icon set is absolutely disgusting. &#8220;This PC&#8221; and &#8220;Recycle Bin&#8221; look like something from Windows 95. Not a fan.
+
+<img src="/img/post_images/windows-10-first-impressions-2.png" alt="Windows 10 First Impressions" />
+
+The next thing I couldn't help but notice was that there were many features that seemed very &#8220;Mac&#8221;-esque. Virtual desktops, a notification panel that slides in from the right side of the screen, and a dedicated button to display all open applications as small panels (similar to how Expose/Mission Control does things). It seems like a poorly done copy cat of some of the features that I love most about OS X. Also, smaller pop-up messages slide in from the right side of the screen whenever new updates have been installed, or when Windows deems itself worthy to let you know that something has changed. Rather than informing you in the top-right corner like on a Mac, Microsoft has discretely moved these notifications to the bottom-right hand corner of the screen, as not to look too much like OS X.
+
+Generally, after installing a brand new Windows OS, the first thing I tend to do is head over to Windows Update to install drivers. It's kind of ironic, because everything listed under &#8220;Important Updates&#8221;, I uncheck, and everything listed under &#8220;Recommended Updates&#8221; are usually checked. I only select the specific hardware drivers that I'm looking for, and those are most often listed under &#8220;Recommended.&#8221; Shoot me for saying this (especially because my daily job is as a Windows Systems Administrator), but I've never really felt that Windows Updates have helped the security/stability/functionality of a Windows environment, and if anything, have had detrimental effects as far as performance goes. Most often, I decide to change the update settings to &#8220;Never install&#8221;. When I feel I need a specific update, I have enough technical know-how to manually select what I want. In Windows 10, only two options are listed now: &#8220;Automatic&#8221; and &#8220;Notify to schedule restart.&#8221; Sorry, Microsoft, but I like to have a little more control over update settings than that. For novice users, this might be a welcome feature, but I dislike it.
+
+<img src="/img/post_images/windows-10-first-impressions-3.png" alt="Windows 10 First Impressions" />
+
+Another simple thing that I like to do on any new Windows installation is throw &#8220;Computer&#8221; on the desktop for easy access to the file system. &#8220;Computer&#8221; has been renamed to &#8220;This PC&#8221; in Windows 10 (I'm coming from Windows 7, so I don't remember if this was changed previously in 8.1 or not). Normally, I can simply write-click on &#8220;Computer&#8221; and choose &#8220;Show on Desktop&#8221; to have it placed conveniently for me. All mentions of this have been removed. It's small and stupid, but I really appreciated having that in a context menu. Now, you have to go into &#8220;Personalize&#8221; and then &#8220;Themes&#8221; and then &#8220;Desktop Icon Settings&#8221; &#8212; an unnecessary number of steps, in my opinion. I know that the &#8220;Windows + E&#8221; shortcut is available to open the file explorer, but still.
+
+<img src="/img/post_images/windows-10-first-impressions-4.png" alt="Windows 10 First Impressions" />
+
+I'm sure (and hoping) that it's only because I'm running the OS as a Virtual Machine, and the drivers just aren't quite there yet for Mac, but I just couldn't help but feel that everything that I did had a bit of latency. Clicks weren't as snappy as I would have liked. There seemed to be a delay on just about everything I tried to do. Everything from clicking on the Start menu, to loading basic applications like Notepad. Mind you, that this is all running on a laptop with an SSD also. Windows 7 never seemed to have any sort of lag. It's also very possible that because Windows 10 is 6 years newer than Windows 7, it requires more System Resources than any of its older siblings. It seemed the same to me, though. On a blank desktop, with no active applications, RAM usage was 0.7GB, although CPU utilization seemed a bit high for doing absolutely nothing.
+
+<img src="/img/post_images/windows-10-first-impressions-5.png" alt="Windows 10 First Impressions" />
+
+Everything thus-far has been negative &#8212; So is there anything about Windows 10 that I *do* like? The new start menu. It's wonderful. It's as if Windows 7 and Windows 8 got together and had a baby. This is how the start menu in Windows 8 *should* have been. I welcome the live tiles that automatically update. It gives me quick access to weather and sports at a glance, rather than having to open a full-blown web page.
+
+<img src="/img/post_images/windows-10-first-impressions-6.png" alt="Windows 10 First Impressions" />
+
+And speaking of Web pages, I've really enjoyed using Edge so far, the new browser to replace Internet Explorer. It's not as different as I had expected, and still has subtle UI designs from IE 11, but it appears that it will do a much better job at rendering some of the latest HTML5/CSS3 properties that were almost completely missing previously.
+
+Overall, I'm not super impressed. I'm sure it will get better as I use it more and discover where things have been moved to. Most new released from Microsoft are a bit buggy anyway, right out the door. As service packages are released and more user data is sent to Microsoft, thats bound to improve. It is much less intimidating than Windows 8.1 was, that's for sure. I still can't help but notice that everything is geared more and more towards tablet use, though. Microsoft has done a great job at making the OS fairly fluid for use on a standard desktop computer or a device with touch capability. I'm not ready to jump on that bandwagon yet, though. I haven't been very impressed with many of the Windows tablets.
+
+I'm a hater. Sue me.

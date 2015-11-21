@@ -1,6 +1,6 @@
-author = "Keichi Takahashi"
-description = "Simple and clean blog theme for hugo"
+author = "Bryce Matheson"
+description = "A simple, lean blog theme for hugo, designed for my personal blog brycematheson.io, but free to use for whomever."
 license = "MIT"
-name = "vienna"
-source_repo = "git@github.com:keichi/vienna.git"
-tags = ["blog", "tags", "bootstrap"]
+name = "allegiant"
+source_repo = "github.com:brycematheson/allegiant.git"
+tags = ["blog", "hugo", "allegiant"]

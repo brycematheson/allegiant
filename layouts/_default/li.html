@@ -1,23 +1,7 @@
-<article>
-  <header>
-    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-    <div class="post-meta clearfix">
-      <div class="post-date pull-left">
-        Posted on
-        <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
-          {{ .Date.Format "Jan 2, 2006" }}
-        </time>
-      </div>
-    </div>
-  </header>
-  <div>
-    {{ .Summary }}
-  </div>
-  {{ if .Truncated }}
-  <footer>
-    <ul class="pager">
-      <li class="next"><a href="{{ .Permalink }}">Read more <span aria-hidden="true">&raquo;</span></a></li>
-    </ul>
-  </footer>
-  {{ end }}
-</article>
+  <article>
+  <h2 class="post-title"><a href="{{ .Permalink }}" rel="bookmark" title="Link to {{ .Title }}">{{ .Title }}</a></h2>
+  <span class="post-date">Published {{ .Date.Format "Jan 2, 2006" }}</span>
+  <p>{{ .Summary }}</p>
+  {{ if .Truncated }}<a class="moretag" href="{{ .Permalink }}">Continue reading &#8614;</a>{{ end }}
+  <hr class="divider">
+  </article>

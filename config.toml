@@ -1,0 +1,10 @@
+baseurl = "http://brycematheson.github.io/brycematheson.io/"
+languageCode = "en-us"
+title = "Allegiant"
+copyright = "&copy; Allegiant. All Rights Reserved." # Copyright notice. This will be displayed in the footer.
+canonifyurls = true
+
+[params]
+    ga_api_key = "Your Google Analytics tracking id" # Google Analytics API key.
+    avatar = "../../img/avatar.jpg"
+    bio = "Bryce Matheson works as a Windows Systems Administrator for a small IT company based out of Idaho Falls. When not consumed by work, Bryce enjoys dabbling with web development and whatever other technologies are currently tickling his fancy. This site is a place to document his learning."

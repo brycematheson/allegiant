@@ -1,0 +1,23 @@
++++
+title = "I have an iPhone and Mac. Get an iPad?"
+date = "2014-11-29T18:50:20-07:00"
++++
+Let me start off right away by saying that you do not “need” an iPad. Regardless of what you do or do not have, you do not *NEED* an iPad. If you want to hear me go off on a big spiel about instant gratification and entitlement, I could talk your ear off. But we’ll save that for another day.
+
+But let’s get to what you’re really interested about. I am not an Apple Fanboy (an <a href="http://www.pcmag.com/article2/0,2817,2468169,00.asp" target="_blank">Apple Watch for $350?!</a> Heh. Yeah right. I’m not jumping on that bandwagon), but I’ll definitely admit that I’m caught up in the Cupertino Ecosystem. And that’s not to say that I’m against the guys working over in Redmond, or that I believe Microsoft is of the devil. Do I believe that Apple creates superior products? Absolutely. Do I try and sway people to shell out the extra cash for a similarly-capable machine that can do the same thing for hundreds of dollars extra? No, not necessarily (iPhone vs. Android is another debate, though). Anyway, enough side-tangents. I really do love Apple products, but that doesn’t necessarily mean that I’m waiting first in line to buy the “next big thing.”
+
+iPhones and Macs fit so well into my life and have changed the entire way I do things that naturally I’ve asked myself, “Do I need an iPad?” The debate is that an iPad is really just a larger iPhone, and has a lot of the same capabilities, but it’s not quite a PC-replacement (at least not yet). So is there a need or some hole in my life that an iPad could fill?
+
+I’ve been through the whole Windows 8, touch-screen thing. Meh. Not for me. There are some things where it was “kinda cool” to manipulate and change just with your finger, but honestly, it always just felt ever-so-slightly awkward to stretch my arm across the keyboard and touch the screen. To me, it just felt — wrong. In my mind, it’s as if Grandma had come to Thanksgiving dinner wearing a belly shirt. Lines have been crossed, and I never want to see that ever again. In a post-PC era, it was bound to happen, but belly shirts and older women are two things that should never be mixed. Laptop computers and touch-screen devices should not be combined.
+
+I’ll admit that I’ve always had my eyes on an iPad. Walking through the mall, even with my girlfriend yanking on my arm, it was simply a futile attempt to try and have me walk past an Apple store. First stop: MacBook Pro’s, second stop: iMac’s, third stop: iPads. It was alway something where I would say, “These are cool. But it’s just a big iPhone. Do I need one?” I always toyed with the idea in my mind, but ultimately decided against it.
+
+Yesterday, on an impulse, I pulled the trigger. I found myself walking out of the store with an iPad Mini 2 (no way in hell am I paying $100 extra for identical hardware, minus the Touch-ID just to have the latest and greatest), and surprisingly feeling quite guilty.
+
+I came home, ripped open the packaging, downloaded all the apps, restored from an iCloud Backup, and then I thought, “Now what?” There were some cool things, such as larger-screen games, or an even better mobile-browsing experience via Safari. But even after the first few hours, I couldn’t convince myself that I really “needed” this device. I kept fighting within myself saying, “Well think about all the Web Development you do. You can use this to test how client sites function on a tablet.” or even, “If you don’t find a need for it, you can gift it to Mom for Christmas.”
+
+## The verdict
+
+I don’t really have one, yet. I’ve had a full 24 hours using the device, and I’ve decided that an iPad, for me, is a *luxury device*. It doesn’t fill any gaping holes in my life that I had previously. I will say that browsing in bed on a larger screen is a better experience, as well as larger-screen gameplay (although I’m not a gamer by any stretch of the imagination). I also prefer a lot of the iPad-based apps compared to the iPhone alternative. They seem more capable and feature-packed. Netflix is more pleasant to watch rather than having a hot laptop searing off my chest hair. And if I ever decided to get into reading, I could see it as a good eReader. But ultimately, it just felt more limiting than anything. I found myself thinking, “I need to edit this line of co — oh wait. I have to get on my MacBook to do that.” or “I need to send that photo to Cary — oh wait, that’s on my laptop.” I want it to be a replacement, or at least a good substitute, to my MacBook Pro, and it just isn’t there yet.
+
+If I can’t find a good reason to keep it within the next few days, it’ll probably go back. Can anyone change my mind?

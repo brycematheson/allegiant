@@ -1,12 +1,11 @@
 {{ partial "header.html" . }}
-<div class="article-list">
+<section id="content" role="main">
   {{ range $index, $page := .Paginator.Pages }}
   {{ if ne $index 0 }}
-  <hr/>
   {{ end }}
   {{ .Render "li" }}
   {{ end }}
-</div>
-{{ partial "pagination.html" .Paginator }}
+  {{ partial "pagination.html" .Paginator }}
+</section>
 {{ partial "footer.html" . }}
 
