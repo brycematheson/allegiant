@@ -2,6 +2,8 @@
 
 ## Overview
 
+A demo of the theme can be seen by visiting my blog at www.brycematheson.io.
+
 Allegiant is a simple and clean blog theme for [Hugo](http://gohugo.io/). Some of the more notable features are:
 - Super simple/clean design
 - Client side source code highlighting (using Highlight.js)
