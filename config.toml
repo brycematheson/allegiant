@@ -1,4 +1,4 @@
-baseurl = "http://brycematheson.github.io/brycematheson.io/"
+baseurl = "yoursitehere.com"
 languageCode = "en-us"
 title = "Allegiant"
 copyright = "&copy; Allegiant. All Rights Reserved." # Copyright notice. This will be displayed in the footer.
@@ -6,5 +6,11 @@ canonifyurls = true
 
 [params]
     ga_api_key = "Your Google Analytics tracking id" # Google Analytics API key.
-    avatar = "../../img/avatar.jpg"
-    bio = "Bryce Matheson works as a Windows Systems Administrator for a small IT company based out of Idaho Falls. When not consumed by work, Bryce enjoys dabbling with web development and whatever other technologies are currently tickling his fancy. This site is a place to document his learning."
+    avatar = "../../img/avatar.jpg" # Image should be square, and roughly 150px x 150px
+    bio = "Insert your bio here. You should write something really whitty and interesting that nobody is ever going to read or care about. But such is life. I really like the look of having a bio snippet on the blog, though. You may have to adjust some CSS styles depending on how long or short your bio is. I didn't make it super resillient."
+    github = "http://github.com/username"
+    twitter = "https://twitter.com/username"
+    linkedin = "https://www.linkedin.com/in/username"
+    footer_1 = "Some text here."
+    footer_2 = "Some different text here."
+    footer_3 = "Even more different text here."

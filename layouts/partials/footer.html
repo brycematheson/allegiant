@@ -2,20 +2,14 @@
 </div>
 <footer id="footer" style="color: #7A7B7C; background-color: #3A3B3C;background-image: url({{ .Site.BaseURL}}/img/texture.png),linear-gradient(to bottom, #3A3B3C, #1d1e1e); background-repeat: repeat, no-repeat; background-position: left top, left top; background-size: 100px 100px, 100% 100%;">
   <div id="footer-container">
-    <div class="footer-column">
-<!--     Here's some text. -->
-    </div>
-    <div class="footer-column">
-<!--     Here's some text. -->
-    </div>
-    <div class="footer-column">
-<!--     Here's some text. -->
-    </div>
+  {{ with .Site.Params.footer_1 }}<div class="footer-column">{{ . }}</div>{{ end }}
+  {{ with .Site.Params.footer_2 }}<div class="footer-column">{{ . }}</div>{{ end }}
+  {{ with .Site.Params.footer_3 }}<div class="footer-column">{{ . }}</div>{{ end }}
   <div class="clearfix"></div>
   </div>
   <div id="copyright">{{ .Site.Copyright | safeHTML }}</div>
 </footer>
-<script src="{{ .Site.BaseURL }}js/highlight.pack.js"></script>
+<script src="{{ .Site.BaseURL }}/js/highlight.pack.js"></script>
   <script>
     hljs.initHighlightingOnLoad();
   </script>
@@ -31,4 +25,6 @@
   {{ end }}
 </div>
 </body>
+    <link rel="shortcut icon" href="{{ .Site.BaseURL }}/img/favicon.ico" />
+    <link rel="apple-touch-icon" href="{{ .Site.BaseURL }}/img/apple-touch-icon.jpg" />
 </html>

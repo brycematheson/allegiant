@@ -4,14 +4,9 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
   <title>{{ if ne .URL "/" }}{{ .Title }} &middot; {{ end }}{{ .Site.Title }}</title>
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css" />
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/font-awesome.min.css" />
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/style.css" />
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/font-awesome.min.css" />
   <link href='https://fonts.googleapis.com/css?family=Lato:100,300,400,600' rel='stylesheet' type='text/css'>
-  <link rel="shortcut icon" href="{{ .Site.BaseURL }}img/favicon.ico" />
-  <link rel="apple-touch-icon" href="{{ .Site.BaseURL }}img/apple-touch-icon.jpg" />
-  {{ if eq .URL "/" }}
-  <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-  {{ end }}
 </head>
 <body>
 {{ if isset .Params "featuredimage" }}
@@ -26,9 +21,9 @@
         <nav id="mainmenu">
           <ul>
             <li><a href="{{ .Site.BaseURL }}">Articles</a></li>
-            <li><a href="https://github.com/brycematheson" target="_blank">Github</a></li>
-            <li><a href="https://twitter.com/brycematheson" target="_blank">Twitter</a></li>
-            <li><a href="https://www.linkedin.com/in/brycematheson" target="_blank">LinkedIn</a></li>
+            {{ with .Site.Params.github }}<li><a href="{{ . }}" target="_blank">Github</a></li>{{ end }}
+            {{ with .Site.Params.twitter }}<li><a href="{{ . }}" target="_blank">Twitter</a></li>{{ end }}
+            {{ with .Site.Params.linkedin }}<li><a href="{{ . }}" target="_blank">LinkedIn</a></li>{{ end }}
           </ul>
         </nav>
         <input type="checkbox" id="op"></input>
@@ -40,9 +35,9 @@
           <nav id="menu" role="navigation">
             <ul>
             <li><a href="{{ .Site.BaseURL }}">Articles</a></li>
-            <li><a href="https://github.com/brycematheson" target="_blank">Github</a></li>
-            <li><a href="https://twitter.com/brycematheson" target="_blank">Twitter</a></li>
-            <li><a href="https://www.linkedin.com/in/brycematheson" target="_blank">LinkedIn</a></li>
+            {{ with .Site.Params.github }}<li><a href="{{ . }}" target="_blank">Github</a></li>{{ end }}
+            {{ with .Site.Params.twitter }}<li><a href="{{ . }}" target="_blank">Twitter</a></li>{{ end }}
+            {{ with .Site.Params.linkedin }}<li><a href="{{ . }}" target="_blank">LinkedIn</a></li>{{ end }}
           </ul>
           </nav>
         </div>
