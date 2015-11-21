@@ -12,7 +12,7 @@ Allegiant is a simple and clean blog theme for [Hugo](http://gohugo.io/). Some o
 - Responsive
 - Font Awesome icons
 
-https:github.com/brycematheson/allegiant/images/screenshot.png
+!https://github.com/brycematheson/allegiant/images/screenshot.png
 
 ## Installation
 
