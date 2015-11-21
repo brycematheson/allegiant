@@ -12,6 +12,8 @@ Allegiant is a simple and clean blog theme for [Hugo](http://gohugo.io/). Some o
 - Responsive
 - Font Awesome icons
 
+(https://raw.github.com/brycematheson/allegiant/images/screenshot.png)
+
 ## Installation
 
 In your hugo site directory, run:
