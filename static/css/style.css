@@ -14,9 +14,7 @@ h2 a {
 footer {
     box-sizing: border-box
 }
-.overlay ul,
-ol,
-ul {
+.overlay ul {
     list-style: none
 }
 #mainmenu,
