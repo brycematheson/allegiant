@@ -326,10 +326,11 @@ footer .menu-item a:hover {
     text-decoration: none
 }
 #branding {
-    margin-left: 0;
+    margin: 0 auto;
     height: 80px;
-    padding-left: calc(55% - 62.5rem * .5);
-    padding-right: calc(55% - 62.5rem * .5)
+    max-width: 1000px;
+    padding-left: 7%;
+    padding-right: 7%;
 }
 #site-title {
     margin-top: 25px;
