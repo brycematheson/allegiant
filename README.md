@@ -30,7 +30,7 @@ You may specify following options in `config.toml` of your site to make use of
 this theme's features.
 
 ```toml
-baseurl = "yoursitehere.com"
+baseurl = "example.org"
 languageCode = "en-us"
 title = "Allegiant"
 copyright = "&copy; Allegiant. All Rights Reserved." # Copyright notice. This will be displayed in the footer.
