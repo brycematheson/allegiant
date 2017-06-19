@@ -4,3 +4,4 @@ license = "MIT"
 name = "allegiant"
 source_repo = "github.com:brycematheson/allegiant.git"
 tags = ["blog", "hugo", "allegiant"]
+homepage = "https://github.com/brycematheson/allegiant"
